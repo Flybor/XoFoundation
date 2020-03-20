@@ -1,0 +1,6 @@
+framework module Pods_XoFoundation_Example {
+  umbrella header "Pods-XoFoundation_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

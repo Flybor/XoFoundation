@@ -1,0 +1,16 @@
+PODS:
+  - XoFoundation (0.1.0)
+
+DEPENDENCIES:
+  - XoFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  XoFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XoFoundation: 36d8e687e1fd35372cca7725407b79b2ef6e21bd
+
+PODFILE CHECKSUM: 881bfa6e1031d10375bbec976175bee87395cfd0
+
+COCOAPODS: 1.9.1

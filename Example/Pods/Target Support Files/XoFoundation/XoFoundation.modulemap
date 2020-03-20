@@ -1,0 +1,6 @@
+framework module XoFoundation {
+  umbrella header "XoFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

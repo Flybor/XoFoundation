@@ -7,9 +7,10 @@
 
 #import "NSString+Tests.h"
 
-#import <AppKit/AppKit.h>
 
 
 @implementation NSString (Tests)
-
++ (void)testhah {
+    NSLog(@"ddkfjdkjfkd");
+}
 @end

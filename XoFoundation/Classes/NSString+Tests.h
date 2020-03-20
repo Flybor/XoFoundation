@@ -5,7 +5,6 @@
 //  Created by   on 2020/3/20.
 //
 
-#import <AppKit/AppKit.h>
 
 
 #import <Foundation/Foundation.h>
@@ -13,6 +12,8 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface NSString (Tests)
+
++ (void)testhah ;
 
 @end
 
